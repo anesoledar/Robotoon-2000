@@ -1,4 +1,5 @@
 # robotron-2000!
+Projeto do curso da Alura "Manipulando o DOM com javascipt" </br>
 Falta adicionar a troca de robôs e os status iniciais de cada robô.
 Veja pelo <a href ="https://robotoon-2000.vercel.app/">link</a>.
 
